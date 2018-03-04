@@ -5,6 +5,9 @@ __pycache__/
 # Jupyter Notebook
 .ipynb_checkpoints
 
+# pycharm
+.idea/
+
 # dataset
 train_img_set/face/
 train_img_set/non-face/
