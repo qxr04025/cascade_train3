@@ -1,0 +1,17 @@
+# python
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# dataset
+train_img_set/face/
+train_img_set/non-face/
+train_img_set/train_set.vec
+train_img_set/info.bat
+train_img_set/bg.txt
+
+# models
+output/
+output_8k25K/
